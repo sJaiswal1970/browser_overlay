@@ -63,7 +63,3 @@ $env:OFRADR_OPENAI_CLIENT_ID = "your-value"
 ```
 
 Keep these values outside the repository. Local OAuth session data is written to `oauth.json`, which is ignored by Git.
-
-## Licensing
-
-Original project code is covered by [LICENSE](LICENSE). Third-party components remain under their upstream licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
