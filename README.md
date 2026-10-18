@@ -1,5 +1,5 @@
 
-# OfraDR
+# browser_overlay
 
 A Windows desktop application built with C++, Dear ImGui, DirectX 11, and WebView2.
 
